@@ -1,10 +1,10 @@
 <?php 
 function db_conn()
 {
-    $servername = "localhost";
-    $username = "root";
-    $password = "";
-    $dbname = "my_database";
+    $servername = "db.fr-pari1.bengt.wasmernet.com";
+    $username = "776c21e673208000a7a74e8d6507";
+    $password = "069f776c-21e6-745b-8000-6a7a9090100f";
+    $dbname = "my_database2401";
 
     try 
     {
